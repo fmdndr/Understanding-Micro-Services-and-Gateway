@@ -19,4 +19,4 @@
 
 > I have learned how to build a micro servcies and what is the role of the gateway in micro services architecture. Let say we can run multiple Customer application on different ports all of the Customer applications will register the  Registry (Eureka Server).If we request directly one of the Customer application then only that specific Customer application will return the result. <br>
 <br>
-If we  send request to Gateway application. Gateway will decide to which application is ready to give response. Gateway application with "Load Balancing" alway tries to find most available Customer application  for response to the request.
+>If we  send request to Gateway application. Gateway will decide to which application is ready to give response. Gateway application with "Load Balancing" alway tries to find most available Customer application  for response to the request.
