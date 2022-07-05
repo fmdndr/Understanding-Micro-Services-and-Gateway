@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be0c6926-ffba-4b92-b04c-e748d3f03dc3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codeswollop/configserver/ConfigurationServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/codeswollop/configserver/ConfigurationServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customers/src/main/java/com/codeswollop/customers/controller/CardController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customers/src/main/java/com/codeswollop/customers/repository/CardRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customers/src/main/java/com/codeswollop/customers/service/CardService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customers/src/main/java/com/codeswollop/customers/service/implementation/CardServiceImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customers/src/main/java/com/codeswollop/customers/utility/CardUtility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customers/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../customers/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customers/src/main/java/com/codeswollop/customers/CustomersApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../customers/src/main/java/com/codeswollop/customers/CustomersApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customers/src/main/java/com/codeswollop/customers/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../customers/src/main/java/com/codeswollop/customers/controller/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customers/src/main/java/com/codeswollop/customers/entity/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/../customers/src/main/java/com/codeswollop/customers/entity/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customers/src/main/java/com/codeswollop/customers/entity/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../customers/src/main/java/com/codeswollop/customers/entity/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customers/src/main/java/com/codeswollop/customers/service/implementation/CustomerServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../customers/src/main/java/com/codeswollop/customers/service/implementation/CustomerServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gateway/src/main/java/com/codeswollop/basics/BasicsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway/src/main/java/com/codeswollop/basics/BasicsApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../gateway/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2AAYQwIXRaYjR4IYxRUSFT6CDa5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ConfigurationServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codeswollop.configserver.ConfigurationServerApplication" />
+      <module name="configuration-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codeswollop.configserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConfigurationServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be0c6926-ffba-4b92-b04c-e748d3f03dc3" name="Changes" comment="" />
+      <created>1654453844064</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654453844064</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
