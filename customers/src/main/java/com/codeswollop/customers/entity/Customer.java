@@ -16,7 +16,7 @@ import java.util.Set;
 public class Customer {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
     @Column(nullable = false, length = 120)
@@ -26,6 +26,6 @@ public class Customer {
     @Column(nullable = false, length = 70)
     private String email;
 
-    @OneToMany
-    private List<Card> cards;
+    @OneToMany(mappedBy = "customer")
+    private List<Card> cards = new ArrayList<>();
 }
