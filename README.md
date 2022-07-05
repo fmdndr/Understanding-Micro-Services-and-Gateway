@@ -28,3 +28,8 @@
 <br>
 
 >If we  send request to Gateway application. Gateway will decide to which application is ready to give response. Gateway application with "Load Balancing" alway tries to find most available Customer application  for response to the request.
+
+<br> <br>
+
+### Next Step of the project
+**I will try to implement centralized security (JWT) and try to filter all request in Gateway Application**
